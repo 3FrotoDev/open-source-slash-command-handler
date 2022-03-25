@@ -3,5 +3,5 @@ module.exports = {
     category: 'Public',
     description: 'View bot ping',
     run: async function (client, interaction, args) {
-            interaction.followUp(`Respone time ${respone}ms\nAPI Latency ${client.ws.ping}ms`)
+            interaction.followUp(`ur ping is ${client.ws.ping}ms`)
         }}
