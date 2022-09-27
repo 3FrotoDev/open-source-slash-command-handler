@@ -12,4 +12,4 @@ npm install
 
 
 
-## - [3Froto#2022](https://discord.com/users/785279311196061716) For any ptoplem go to my dm
+## - [3Froto#2022](https://discord.com/users/785279311196061716) For any problem go to my dm
